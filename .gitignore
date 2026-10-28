@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables / API keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite databases (auto-generated, not sample data)
+data/database.db
+data/calendar.db
+
+# Uploaded images (user uploads, not project files)
+uploads/
+ data/images/
+
+# IDE
+.vscode/
+.idea/

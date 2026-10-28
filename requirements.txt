@@ -1,0 +1,8 @@
+streamlit
+google-genai
+fastmcp
+pandas
+Pillow
+python-dotenv
+openpyxl
+nest-asyncio
